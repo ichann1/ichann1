@@ -1,4 +1,4 @@
-![MasterHead](https://images.alphacoders.com/135/1358310.png)
+![MasterHead](https://png.pngtree.com/thumb_back/fh260/background/20240610/pngtree-computer-of-a-programmer-with-lines-code-of-software-image_15746003.jpg)
 <h1 align="center">Hi 👋, I'm CHAN</h1>
 <h3 align="center">Mr. nobody who has a passionate about innovation.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -26,5 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ichann1&show_icons=true&locale=en&layout=compact" alt="ichann1" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ichann1&show_icons=true&locale=en" alt="ichann1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ichann1&" alt="ichann1" /></p>
